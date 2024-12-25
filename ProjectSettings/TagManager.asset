@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - OneWayPlatform
+  - EnemyBullet
+  - PlayerBullet
+  - GateEnd
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Wall
+  - Water
+  - UI
+  - Player
+  - Ground
+  - Enemy
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1249535765
+    locked: 0
+  - name: Player
+    uniqueID: 4212958153
+    locked: 0
+  - name: Enemy
+    uniqueID: 109466813
+    locked: 0
+  - name: Bullet
+    uniqueID: 312701279
+    locked: 0
+  - name: Ground
+    uniqueID: 768156585
+    locked: 0
+  - name: Canvas
+    uniqueID: 2239768795
+    locked: 0
